@@ -1,0 +1,7 @@
+name: requests_per_day
+title: Requests per Day
+description: A simple extension to agent0's dashboard to track requests in the last 24 hours.
+version: 1.0.0
+settings_sections: []
+per_project_config: false
+per_agent_config: false
